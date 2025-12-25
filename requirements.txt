@@ -1,36 +1,82 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
-# created-by: conda 24.11.3
-asgiref=3.8.1=py313haa95532_0
-bzip2=1.0.8=h2bbff1b_6
-ca-certificates=2025.12.2=haa95532_0
-click=8.2.1=py313haa95532_1
-colorama=0.4.6=py313haa95532_0
-django=5.2=py313haa95532_0
-django-debug-toolbar=6.1.0=pyhd8ed1ab_0
-djangorestframework=3.16.1=pyhd8ed1ab_0
-expat=2.7.1=h8ddb27b_0
-libffi=3.4.4=hd77b12b_1
-libmpdec=4.0.0=h827c3e9_0
-libzlib=1.3.1=h02ab6af_0
-openssl=3.0.18=h543e019_0
-pillow=11.3.0=pypi_0
-pip=25.2=pyhc872135_0
-python=3.13.7=h260b955_100_cp313
-python-dotenv=1.1.0=py313haa95532_0
-python_abi=3.13=1_cp313
-setuptools=78.1.1=py313haa95532_0
-sqlite=3.50.2=hda9a48d_1
-sqlparse=0.5.2=py313haa95532_0
-tk=8.6.15=hf199647_0
-typing_extensions=4.15.0=py313haa95532_0
-tzdata=2025b=h04d1e81_0
-ucrt=10.0.22621.0=haa95532_0
-vc=14.3=h2df5915_10
-vc14_runtime=14.44.35208=h4927774_10
-vs2015_runtime=14.44.35208=ha6b5a95_10
-waitress=3.0.2=py313haa95532_0
-wheel=0.45.1=py313haa95532_0
-xz=5.6.4=h4754444_1
-zlib=1.3.1=h02ab6af_0
+annotated-types==0.7.0
+anyio==4.9.0
+asgiref @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/asgiref_1729057877436/work
+attrs==25.3.0
+certifi==2025.1.31
+cffi==1.17.1
+charset-normalizer==3.4.1
+chromedriver-binary==137.0.7123.0.0
+chromedriver-binary-auto==0.3.1
+click==8.1.8
+colorama==0.4.6
+Django @ file:///C:/b/abs_732pccxzov/croot/django_1745263601709/work
+django-debug-toolbar @ file:///home/conda/feedstock_root/build_artifacts/django-debug-toolbar_1761862301776/work
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1754514405054/work
+et_xmlfile==2.0.0
+fastjsonschema==2.21.1
+flet==0.27.6
+flet-desktop==0.27.6
+h11==0.14.0
+httpcore==1.0.7
+httpx==0.28.1
+idna==3.10
+joblib==1.4.2
+jsonpatch==1.33
+jsonpointer==3.0.0
+jsonschema==4.25.0
+jsonschema-specifications==2025.4.1
+jupyter_core==5.8.1
+langchain-core==0.3.49
+langchain-ollama==0.3.0
+langsmith==0.3.22
+lxml==6.0.0
+mecab==0.996.11
+nbformat==5.10.4
+nltk==3.9.1
+Nuitka==2.6.9
+numpy==2.2.4
+oauthlib==3.2.2
+ollama==0.4.7
+openpyxl==3.1.5
+ordered-set==4.1.0
+orjson==3.10.16
+outcome==1.3.0.post0
+pandas==2.2.3
+pillow==11.3.0
+platformdirs==4.3.8
+pycparser==2.22
+pydantic==2.11.1
+pydantic_core==2.33.0
+PySocks==1.7.1
+python-dateutil==2.9.0.post0
+python-docx==1.2.0
+python-dotenv @ file:///C:/b/abs_71cpoh9hpg/croot/python-dotenv_1745613639902/work
+pytz==2025.2
+pywin32==311
+PyYAML==6.0.2
+referencing==0.36.2
+regex==2024.11.6
+repath==0.9.0
+requests==2.32.3
+requests-toolbelt==1.0.0
+rpds-py==0.26.0
+selenium==4.30.0
+setuptools==78.1.1
+six==1.17.0
+sniffio==1.3.1
+sortedcontainers==2.4.0
+sqlparse @ file:///C:/Users/dev-admin/buildout/croot/sqlparse_1739565583021/work
+tenacity==9.0.0
+tqdm==4.67.1
+traitlets==5.14.3
+trio==0.29.0
+trio-websocket==0.12.2
+typing-inspection==0.4.0
+typing_extensions==4.13.0
+tzdata==2025.2
+urllib3==2.3.0
+waitress @ file:///C:/Users/dev-admin/buildout/croot/waitress_1735864045188/work
+websocket-client==1.8.0
+wheel==0.45.1
+wsproto==1.2.0
+zstandard==0.23.0
